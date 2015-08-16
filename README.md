@@ -1,4 +1,4 @@
-Package cologrus provides functionality to wrap Logrus hooks and formatters as ready to use CoLog hooks and formatters.
+Package cologrus provides functionality to wrap [Logrus](https://github.com/Sirupsen/logrus) hooks and formatters as ready to use [CoLog](https://github.com/comail/colog) hooks and formatters.
 
 ### Example
 
