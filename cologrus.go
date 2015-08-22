@@ -48,9 +48,6 @@ func (lf *logrusFormatter) Format(entry *colog.Entry) ([]byte, error) {
 	return lf.formatter.Format(entry2logrus(entry))
 }
 
-// DisableColors just implements the formatter interface
-func (lf *logrusFormatter) DisableColors() {}
-
 // SetFlags just implements the formatter interface
 func (lf *logrusFormatter) SetFlags(flags int) {}
 
