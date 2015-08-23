@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/comail/cologrus.svg?branch=master)](https://travis-ci.org/comail/cologrus)&nbsp;[![godoc reference](https://godoc.org/comail.io/go/cologrus?status.png)](https://godoc.org/comail.io/go/cologrus)
+
 Package cologrus provides functionality to wrap [Logrus](https://github.com/Sirupsen/logrus) hooks and formatters as ready to use [CoLog](https://github.com/comail/colog) hooks and formatters.
 
 ### Example
